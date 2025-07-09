@@ -19,3 +19,4 @@ crash.log
 *.log
 *.zip
 *.tar.gz
+.terraform/

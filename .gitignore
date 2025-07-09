@@ -1,0 +1,21 @@
+# Terraform cache and providers
+.terraform/
+*.tfstate
+*.tfstate.backup
+crash.log
+*.log
+*.tfvars
+
+# Ignore large binaries
+*.zip
+*.bin
+*.exe
+*.tar.gz
+
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.log
+*.zip
+*.tar.gz
